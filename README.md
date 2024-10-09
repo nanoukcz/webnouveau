@@ -6,13 +6,6 @@ Welcome to my personal website! This repository contains the source code for my 
 
 You can view the live version of the website here: [webnouveau.cz](https://www.webnouveau.cz/)
 
-## Features
-
-- **Responsive Design**: Optimized for all devices (mobile, tablet, desktop).
-- **Blog Section**: Regularly updated with my latest thoughts on [your interests].
-- **Projects**: Showcase of my latest projects with detailed descriptions and links.
-- **Contact Form**: A simple form for getting in touch.
-
 ## Technologies Used
 
 - **HTML5**
